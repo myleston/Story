@@ -1,0 +1,14 @@
+{
+  "name": "legacy-life",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Prototype: a 1-in-8-billion style life simulator where earlier players' choices shape later players' lives",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
